@@ -1,0 +1,420 @@
+<OverlayData>
+<MarkerCategory name="cz_guides" DisplayName="Czokalapik's Guides" iconSize="0.7" heightOffset="2.5" fadeNear="3000" fadeFar="3100" iconFile="Data\czokalapiksguides\cz_num_missing.png" animSpeed="0.1" texture="Data\czokalapiksguides\cz_trail.png">
+	<MarkerCategory name="hp" DisplayName="Hero Points Run">
+		  <MarkerCategory name="hot" DisplayName="HoT paths">
+		  	<MarkerCategory MapID="1052" name="vb" DisplayName="Verdant Brink">
+				<MarkerCategory name="vb_wp" DisplayName="Waypoint directions" iconSize="2.5">
+					<MarkerCategory name="signs_tp_ff" DisplayName="Faren's Flyer" iconFile="Data\czokalapiksguides\cz_signs_tp_to_ff.png" />
+					<MarkerCategory name="signs_tp_pe" DisplayName="Pact Encampment" iconFile="Data\czokalapiksguides\cz_signs_tp_to_pe.png"/>
+					<MarkerCategory name="signs_tp_mv" DisplayName="Mellaggan's Valor" iconFile="Data\czokalapiksguides\cz_signs_tp_to_mv.png"/>
+					<MarkerCategory name="signs_tp_sr" DisplayName="Shrouded Ruins" iconFile="Data\czokalapiksguides\cz_signs_tp_to_sr.png"/>
+					<MarkerCategory name="signs_tp_ji" DisplayName="Jaka Itzel" iconFile="Data\czokalapiksguides\cz_signs_tp_to_ji.png"/>
+					<MarkerCategory name="signs_tp_sp" DisplayName="Shipwreck Peak" iconFile="Data\czokalapiksguides\cz_signs_tp_to_sp.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="num" DisplayName="Numbers">
+					<MarkerCategory name="1" iconFile="Data\czokalapiksguides\cz_num_01.png"/>
+					<MarkerCategory name="2" iconFile="Data\czokalapiksguides\cz_num_02.png"/>
+					<MarkerCategory name="3" iconFile="Data\czokalapiksguides\cz_num_03.png"/>
+					<MarkerCategory name="4" iconFile="Data\czokalapiksguides\cz_num_04.png"/>
+					<MarkerCategory name="5" iconFile="Data\czokalapiksguides\cz_num_05.png"/>
+					<MarkerCategory name="6" iconFile="Data\czokalapiksguides\cz_num_06.png"/>
+					<MarkerCategory name="7" iconFile="Data\czokalapiksguides\cz_num_07.png"/>
+					<MarkerCategory name="8" iconFile="Data\czokalapiksguides\cz_num_08.png"/>
+					<MarkerCategory name="9" iconFile="Data\czokalapiksguides\cz_num_09.png"/>
+					<MarkerCategory name="10" iconFile="Data\czokalapiksguides\cz_num_10.png"/>
+					<MarkerCategory name="11" iconFile="Data\czokalapiksguides\cz_num_11.png"/>
+					<MarkerCategory name="signs_alt_route" DisplayName="Alternative route" iconFile="Data\czokalapiksguides\cz_num_alt_route.png"  iconSize="0.7"/>
+					<MarkerCategory name="signs_portal" DisplayName="Portal" iconFile="Data\czokalapiksguides\cz_portal.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="label" DisplayName="Labels">
+					<MarkerCategory name="nightthistle_blossom" DisplayName="Nightthistle Blossom" iconFile="Data\czokalapiksguides\cz_hp_name_nightthistle_blossom.png"/>
+					<MarkerCategory name="jaka_itzel" DisplayName="Jaka Itzel" iconFile="Data\czokalapiksguides\cz_hp_name_jaka_itzel.png"/>
+					<MarkerCategory name="pact_encampment" DisplayName="Pact Encampment" iconFile="Data\czokalapiksguides\cz_hp_name_pact_encampment.png"/>
+					<MarkerCategory name="wyvern_nesting_grounds" DisplayName="Wyvern Nesting Grounds" iconFile="Data\czokalapiksguides\cz_hp_name_wyvern_nesting_grounds.png"/>
+					<MarkerCategory name="nunoch_alchemical_energy" DisplayName="Nunoch Alchemical Energy" iconFile="Data\czokalapiksguides\cz_hp_name_nunoch_alchemical_energy.png"/>
+					<MarkerCategory name="abyssal_depths" DisplayName="Abyssal Depths" iconFile="Data\czokalapiksguides\cz_hp_name_abyssal_depths.png"/>
+					<MarkerCategory name="shrouded_ruins" DisplayName="Shrouded Ruins" iconFile="Data\czokalapiksguides\cz_hp_name_shrouded_ruins.png"/>
+					<MarkerCategory name="ancient_fighting_pit" DisplayName="Ancient Fighting Pit" iconFile="Data\czokalapiksguides\cz_hp_name_ancient_fighting_pit.png"/>
+					<MarkerCategory name="mellaggans_valor" DisplayName="Mellaggans Valor" iconFile="Data\czokalapiksguides\cz_hp_name_mellaggans_valor.png"/>
+					<MarkerCategory name="cliffside_ruins" DisplayName="Cliffside Ruins" iconFile="Data\czokalapiksguides\cz_hp_name_cliffside_ruins.png"/>
+					<MarkerCategory name="farens_flyer" DisplayName="Farens Flyer" iconFile="Data\czokalapiksguides\cz_hp_name_farens_flyer.png"/>
+					<MarkerCategory name="ancient_tree" DisplayName="Ancient Tree" iconFile="Data\czokalapiksguides\cz_hp_name_ancient_tree.png"/>
+					<MarkerCategory name="pact_airship_wreckage" DisplayName="Pact Airship Wreckage" iconFile="Data\czokalapiksguides\cz_hp_name_pact_airship_wreckage.png"/>
+					<MarkerCategory name="security_console" DisplayName="Security Console" iconFile="Data\czokalapiksguides\cz_hp_name_security_console.png"/>
+					<MarkerCategory name="treacherous_path" DisplayName="Treacherous Path" iconFile="Data\czokalapiksguides\cz_hp_name_treacherous_path.png"/>
+					<MarkerCategory name="coztic_itzel_belongings" DisplayName="Coztic Itzel Belongings" iconFile="Data\czokalapiksguides\cz_hp_name_coztic_itzel_belongings.png"/>
+					<MarkerCategory name="pile_of_guano" DisplayName="Pile of Guano" iconFile="Data\czokalapiksguides\cz_hp_name_pile_of_guano.png"/>
+				</MarkerCategory>
+			</MarkerCategory>
+			
+		  	<MarkerCategory MapID="1043" name="ab" DisplayName="Auric Basin">
+				<MarkerCategory name="ab_wp" DisplayName="Waypoint directions" iconSize="2.5">
+					<MarkerCategory name="signs_tp_fc" DisplayName="Forgotten City" iconFile="Data\czokalapiksguides\cz_signs_tp_to_fc.png"/>
+					<MarkerCategory name="signs_tp_abn" DisplayName="Northwatch" iconFile="Data\czokalapiksguides\cz_signs_tp_to_abn.png"/>
+					<MarkerCategory name="signs_tp_abs" DisplayName="Southwatch" iconFile="Data\czokalapiksguides\cz_signs_tp_to_abs.png"/>
+					<MarkerCategory name="signs_tp_abe" DisplayName="Eastwatch" iconFile="Data\czokalapiksguides\cz_signs_tp_to_abe.png"/>
+					<MarkerCategory name="signs_tp_abw" DisplayName="Westwatch" iconFile="Data\czokalapiksguides\cz_signs_tp_to_abw.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="num" DisplayName="Numbers">
+					<MarkerCategory name="1" iconFile="Data\czokalapiksguides\cz_num_01.png"/>
+					<MarkerCategory name="2" iconFile="Data\czokalapiksguides\cz_num_02.png"/>
+					<MarkerCategory name="3" iconFile="Data\czokalapiksguides\cz_num_03.png"/>
+					<MarkerCategory name="4" iconFile="Data\czokalapiksguides\cz_num_04.png"/>
+					<MarkerCategory name="5" iconFile="Data\czokalapiksguides\cz_num_05.png"/>
+					<MarkerCategory name="6" iconFile="Data\czokalapiksguides\cz_num_06.png"/>
+					<MarkerCategory name="7" iconFile="Data\czokalapiksguides\cz_num_07.png"/>
+					<MarkerCategory name="8" iconFile="Data\czokalapiksguides\cz_num_08.png"/>
+					<MarkerCategory name="9" iconFile="Data\czokalapiksguides\cz_num_09.png"/>
+					<MarkerCategory name="10" iconFile="Data\czokalapiksguides\cz_num_10.png"/>
+					<MarkerCategory name="11" iconFile="Data\czokalapiksguides\cz_num_11.png"/>
+					<MarkerCategory name="signs_alt_route" DisplayName="Alternative route" iconFile="Data\czokalapiksguides\cz_num_alt_route.png"/>
+					<MarkerCategory name="signs_portal" DisplayName="Portal" iconFile="Data\czokalapiksguides\cz_portal.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="label" DisplayName="Labels">
+					<MarkerCategory name="young_mushrooms" DisplayName="Young Mushrooms" iconFile="Data\czokalapiksguides\cz_hp_name_young_mushrooms.png"/>
+					<MarkerCategory name="toxin_cured_hog" DisplayName="Toxin Cured Hog" iconFile="Data\czokalapiksguides\cz_hp_name_toxin_cured_hog.png"/>
+					<MarkerCategory name="westwatch" DisplayName="Westwatch" iconFile="Data\czokalapiksguides\cz_hp_name_westwatch.png"/>
+					<MarkerCategory name="northwatch" DisplayName="Northwatch" iconFile="Data\czokalapiksguides\cz_hp_name_northwatch.png"/>
+					<MarkerCategory name="suspicious_orichalcum" DisplayName="Suspicious Orichalcum" iconFile="Data\czokalapiksguides\cz_hp_name_suspicious_orichalcum.png"/>
+					<MarkerCategory name="eastwatch" DisplayName="Eastwatch" iconFile="Data\czokalapiksguides\cz_hp_name_eastwatch.png"/>
+					<MarkerCategory name="notice_to_trespassers" DisplayName="Notice To Trespassers" iconFile="Data\czokalapiksguides\cz_hp_name_notice_to_trespassers.png"/>
+					<MarkerCategory name="burnisher_quarry" DisplayName="Burnisher Quarry" iconFile="Data\czokalapiksguides\cz_hp_name_burnisher_quarry.png"/>
+					<MarkerCategory name="burnisher_quarry_springer" DisplayName="Burnisher Quarry (spinger shortcut)" iconFile="Data\czokalapiksguides\cz_hp_name_burnisher_quarry_springer.png"/>
+					<MarkerCategory name="exalted_overlook" DisplayName="Exalted Overlook" iconFile="Data\czokalapiksguides\cz_hp_name_exalted_overlook.png"/>
+					<MarkerCategory name="forgotten_city" DisplayName="Forgotten City" iconFile="Data\czokalapiksguides\cz_hp_name_forgotten_city.png"/>
+					<MarkerCategory name="tarnished_sage" DisplayName="Tarnished Sage" iconFile="Data\czokalapiksguides\cz_hp_name_tarnished_sage.png"/>
+					<MarkerCategory name="mordrem_flower" DisplayName="Mordrem Flower" iconFile="Data\czokalapiksguides\cz_hp_name_mordrem_flower.png"/>
+					<MarkerCategory name="ancient_golem_part" DisplayName="Ancient Golem Part" iconFile="Data\czokalapiksguides\cz_hp_name_ancient_golem_part.png"/>
+					<MarkerCategory name="southwatch" DisplayName="Southwatch" iconFile="Data\czokalapiksguides\cz_hp_name_southwatch.png"/>
+					<MarkerCategory name="chak_hollow" DisplayName="Chak Hollow" iconFile="Data\czokalapiksguides\cz_hp_name_chak_hollow.png"/>
+					<MarkerCategory name="egg_clutch" DisplayName="Egg Clutch" iconFile="Data\czokalapiksguides\cz_hp_name_egg_clutch.png"/>
+					<MarkerCategory name="balthazars_statue" DisplayName="Balthazar's Statue" iconFile="Data\czokalapiksguides\cz_hp_name_balthazars_statue.png"/>
+				</MarkerCategory>
+			</MarkerCategory>
+		  	<MarkerCategory MapID="1045" name="td" DisplayName="Tangled Depths">
+				<MarkerCategory name="td_wp" DisplayName="Waypoint directions" iconSize="2.5">
+					<MarkerCategory name="signs_tp_llc" DisplayName="Ley-Line Confluence" iconFile="Data\czokalapiksguides\cz_signs_tp_to_llc.png"/>
+					<MarkerCategory name="signs_tp_oc" DisplayName="Ogre Camp" iconFile="Data\czokalapiksguides\cz_signs_tp_to_oc.png"/>
+					<MarkerCategory name="signs_tp_oowc" DisplayName="Order of Whispers Camp" iconFile="Data\czokalapiksguides\cz_signs_tp_to_oowc.png"/>
+					<MarkerCategory name="signs_tp_rn" DisplayName="Rata Novus" iconFile="Data\czokalapiksguides\cz_signs_tp_to_rn.png"/>
+					<MarkerCategory name="signs_tp_scar" DisplayName="SCAR Camp" iconFile="Data\czokalapiksguides\cz_signs_tp_to_scar.png"/>
+					<MarkerCategory name="signs_tp_tn" DisplayName="Teku Nunoch" iconFile="Data\czokalapiksguides\cz_signs_tp_to_tn.png"/>
+					<MarkerCategory name="signs_tp_dp" DisplayName="Dragon's Passage" iconFile="Data\czokalapiksguides\cz_signs_tp_to_dp.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="num" DisplayName="Numbers">
+					<MarkerCategory name="1" iconFile="Data\czokalapiksguides\cz_num_01.png"/>
+					<MarkerCategory name="2" iconFile="Data\czokalapiksguides\cz_num_02.png"/>
+					<MarkerCategory name="3" iconFile="Data\czokalapiksguides\cz_num_03.png"/>
+					<MarkerCategory name="4" iconFile="Data\czokalapiksguides\cz_num_04.png"/>
+					<MarkerCategory name="5" iconFile="Data\czokalapiksguides\cz_num_05.png"/>
+					<MarkerCategory name="6" iconFile="Data\czokalapiksguides\cz_num_06.png"/>
+					<MarkerCategory name="7" iconFile="Data\czokalapiksguides\cz_num_07.png"/>
+					<MarkerCategory name="8" iconFile="Data\czokalapiksguides\cz_num_08.png"/>
+					<MarkerCategory name="9" iconFile="Data\czokalapiksguides\cz_num_09.png"/>
+					<MarkerCategory name="10" iconFile="Data\czokalapiksguides\cz_num_10.png"/>
+					<MarkerCategory name="11" iconFile="Data\czokalapiksguides\cz_num_11.png"/>
+					<MarkerCategory name="signs_alt_route" DisplayName="Alternative route" iconFile="Data\czokalapiksguides\cz_num_alt_route.png"/>
+					<MarkerCategory name="signs_portal" DisplayName="Portal" iconFile="Data\czokalapiksguides\cz_portal.png"/>
+				</MarkerCategory>
+				<MarkerCategory name="label" DisplayName="Labels">
+					<MarkerCategory name="glided_river" DisplayName="Glided River" iconFile="Data\czokalapiksguides\cz_hp_name_glided_river.png"/>
+					<MarkerCategory name="troll_runestone" DisplayName="Troll Runestone" iconFile="Data\czokalapiksguides\cz_hp_name_troll_runestone.png"/>
+					<MarkerCategory name="teku_nunoch" DisplayName="Teku Nunoch" iconFile="Data\czokalapiksguides\cz_hp_name_teku_nunoch.png"/>
+					<MarkerCategory name="inquisitors_campsite" DisplayName="Inquisitor's Campsite" iconFile="Data\czokalapiksguides\cz_hp_name_inquisitors_campsite.png"/>
+					<MarkerCategory name="mushroom_spore_cloud" DisplayName="Mushroom Spore Cloud" iconFile="Data\czokalapiksguides\cz_hp_name_mushroom_spore_cloud.png"/>
+					<MarkerCategory name="rata_novus" DisplayName="Rata Novus" iconFile="Data\czokalapiksguides\cz_hp_name_rata_novus.png"/>
+					<MarkerCategory name="ancient_power_core" DisplayName="Ancient Power Core" iconFile="Data\czokalapiksguides\cz_hp_name_ancient_power_core.png"/>
+					<MarkerCategory name="newborn_mushrooms" DisplayName="Newborn Mushrooms" iconFile="Data\czokalapiksguides\cz_hp_name_newborn_mushrooms.png"/>
+					<MarkerCategory name="ogre_camp" DisplayName="Ogre Camp" iconFile="Data\czokalapiksguides\cz_hp_name_ogre_camp.png"/>
+					<MarkerCategory name="guano_spider_eggs" DisplayName="Guano-Incubated Spider Eggs" iconFile="Data\czokalapiksguides\cz_hp_name_guano_spider_eggs.png"/>
+					<MarkerCategory name="egg_clutch" DisplayName="Egg Clutch" iconFile="Data\czokalapiksguides\cz_hp_name_egg_clutch.png"/>
+					<MarkerCategory name="nightthistle_bloom" DisplayName="Nightthistle Bloom" iconFile="Data\czokalapiksguides\cz_hp_name_nightthistle_bloom.png"/>
+					<MarkerCategory name="dragons_passage" DisplayName="Dragon's Passage" iconFile="Data\czokalapiksguides\cz_hp_name_dragons_passage.png"/>
+					<MarkerCategory name="jellyfish_grotto" DisplayName="Jellyfish Grotto" iconFile="Data\czokalapiksguides\cz_hp_name_jellyfish_grotto.png"/>
+					<MarkerCategory name="chak_hatchery" DisplayName="Chak Hatchery" iconFile="Data\czokalapiksguides\cz_hp_name_chak_hatchery.png"/>
+				</MarkerCategory>
+			</MarkerCategory>
+		  </MarkerCategory>
+	</MarkerCategory>
+</MarkerCategory>
+	<POIs>
+		<POI MapID="1052" xpos="931.316" ypos="418.944" zpos="46.3159" type="cz_guides.hp.hot.vb.num.1"/>
+		<POI MapID="1052" xpos="931.316" ypos="418.944" zpos="46.3159" type="cz_guides.hp.hot.vb.label.nightthistle_blossom"/>
+		<Trail type="cz_guides.hp.hot.vb" trailData="Data\czokalapiksguides\vb1.trl" />
+		<POI MapID="1052" xpos="584.831" ypos="9.18366" zpos="-38.1674" type="cz_guides.hp.hot.vb.vb_wp.signs_tp_sp"/>
+		<POI MapID="1052" xpos="930.605" ypos="419.223" zpos="50.1606" type="cz_guides.hp.hot.vb.num.2"/>
+		<POI MapID="1052" xpos="930.605" ypos="419.223" zpos="50.1606" type="cz_guides.hp.hot.vb.label.jaka_itzel"/>
+		<Trail type="cz_guides.hp.hot.vb" trailData="Data\czokalapiksguides\vb2wp.trl" texture="Data\czokalapiksguides\cz_trail_wp.png"/>
+		<POI MapID="1052" xpos="660.605" ypos="373.069" zpos="371.321" type="cz_guides.hp.hot.vb.num.2"/>
+		<POI MapID="1052" xpos="660.605" ypos="373.069" zpos="371.321" type="cz_guides.hp.hot.vb.label.wyvern_nesting_grounds"/>
+		<POI MapID="1052" xpos="424.057" ypos="449.621" zpos="411.48" type="cz_guides.hp.hot.vb.num.2"/>
+		<POI MapID="1052" xpos="424.057" ypos="449.621" zpos="411.48" type="cz_guides.hp.hot.vb.label.wyvern_nesting_grounds"/>
+		<Trail type="cz_guides.hp.hot.vb" trailData="Data\czokalapiksguides\vb2.trl" />
+		
+		<POI MapID="1052" xpos="518.753" ypos="416.748" zpos="298.389" type="cz_guides.hp.hot.vb.num.3"/>
+		<POI MapID="1052" xpos="518.753" ypos="416.748" zpos="298.389" type="cz_guides.hp.hot.vb.label.pact_encampment"/>
+		<Trail type="cz_guides.hp.hot.vb" trailData="Data\czokalapiksguides\vb3wp.trl" texture="Data\czokalapiksguides\cz_trail_wp.png"/>
+		<POI MapID="1052" xpos="135.415" ypos="429.432" zpos="-24.3994" type="cz_guides.hp.hot.vb.num.3"/>
+		<POI MapID="1052" xpos="135.415" ypos="429.432" zpos="-24.3994" type="cz_guides.hp.hot.vb.label.nunoch_alchemical_energy"/>
+		<Trail type="cz_guides.hp.hot.vb" trailData="Data\czokalapiksguides\vb3.trl" />
+		<POI MapID="1052" xpos="362.058" ypos="164.652" zpos="137.827" type="cz_guides.hp.hot.vb.vb_wp.signs_tp_pe"/>
+		
+		<POI MapID="1052" xpos="136.972" ypos="429.916" zpos="-31.8308" type="cz_guides.hp.hot.vb.num.4"/>
+		<POI MapID="1052" xpos="136.972" ypos="429.916" zpos="-31.8308" type="cz_guides.hp.hot.vb.label.abyssal_depths"/>
+		<Trail type="cz_guides.hp.hot.vb" trailData="Data\czokalapiksguides\vb4.trl" />
+		<POI MapID="1052" xpos="-75.6109" ypos="27.1556" zpos="-131.098" type="cz_guides.hp.hot.vb.vb_wp.signs_tp_pe"/>
+		
+		
+		<POI MapID="1052" xpos="141.542" ypos="429.494" zpos="-32.8812" type="cz_guides.hp.hot.vb.num.5"/>
+		<POI MapID="1052" xpos="141.542" ypos="429.494" zpos="-32.8812" type="cz_guides.hp.hot.vb.label.shrouded_ruins"/>
+		<Trail type="cz_guides.hp.hot.vb" trailData="Data\czokalapiksguides\vb5wp.trl" texture="Data\czokalapiksguides\cz_trail_wp.png"/>
+		
+		<POI MapID="1052" xpos="376.718" ypos="434.852" zpos="-389.48" type="cz_guides.hp.hot.vb.num.5"/>
+		<POI MapID="1052" xpos="376.718" ypos="434.852" zpos="-389.48" type="cz_guides.hp.hot.vb.label.ancient_fighting_pit"/>
+		<Trail type="cz_guides.hp.hot.vb" trailData="Data\czokalapiksguides\vb5.trl" />	
+		<POI MapID="1052" xpos="617.074" ypos="456.276" zpos="-424.828" type="cz_guides.hp.hot.vb.vb_wp.signs_tp_pe"/>
+		
+		
+		<POI MapID="1052" xpos="132.51" ypos="428.524" zpos="-21.8809" type="cz_guides.hp.hot.vb.num.6"/>
+		<POI MapID="1052" xpos="132.51" ypos="428.524" zpos="-21.8809" type="cz_guides.hp.hot.vb.label.mellaggans_valor"/>
+		<Trail type="cz_guides.hp.hot.vb" trailData="Data\czokalapiksguides\vb6wp.trl" texture="Data\czokalapiksguides\cz_trail_wp.png"/>
+		<POI MapID="1052" xpos="-274.63" ypos="543.132" zpos="149.287" type="cz_guides.hp.hot.vb.num.6"/>
+		<POI MapID="1052" xpos="-274.63" ypos="543.132" zpos="149.287" type="cz_guides.hp.hot.vb.label.cliffside_ruins"/>
+		<Trail type="cz_guides.hp.hot.vb" trailData="Data\czokalapiksguides\vb6.trl" />
+		<POI MapID="1052" xpos="-613.111" ypos="508.508" zpos="139.359" type="cz_guides.hp.hot.vb.num.signs_portal"/>
+		<POI MapID="1052" xpos="-596.318" ypos="441.593" zpos="193.657" type="cz_guides.hp.hot.vb.num.signs_portal"/>
+		<POI MapID="1052" xpos="-597.978" ypos="442.372" zpos="191.983" type="cz_guides.hp.hot.vb.vb_wp.signs_tp_mv"/>
+		
+		
+		<POI MapID="1052" xpos="-269.268" ypos="543.13" zpos="156.143" type="cz_guides.hp.hot.vb.num.7"/>
+		<POI MapID="1052" xpos="-269.268" ypos="543.13" zpos="156.143" type="cz_guides.hp.hot.vb.label.farens_flyer"/>
+		<Trail type="cz_guides.hp.hot.vb" trailData="Data\czokalapiksguides\vb7wp.trl" texture="Data\czokalapiksguides\cz_trail_wp.png"/>
+		
+		<POI MapID="1052" xpos="-523.383" ypos="515.147" zpos="-283.431" type="cz_guides.hp.hot.vb.num.7"/>
+		<POI MapID="1052" xpos="-523.383" ypos="515.147" zpos="-283.431" type="cz_guides.hp.hot.vb.label.pact_airship_wreckage"/>
+		<POI MapID="1052" xpos="-460.769" ypos="565.841" zpos="-318.517" type="cz_guides.hp.hot.vb.num.7"/>
+		<POI MapID="1052" xpos="-460.769" ypos="565.841" zpos="-318.517" type="cz_guides.hp.hot.vb.label.pact_airship_wreckage"/>
+		<Trail type="cz_guides.hp.hot.vb" trailData="Data\czokalapiksguides\vb8.trl" />
+		<POI MapID="1052" xpos="-324.911" ypos="567.642" zpos="-264.947" type="cz_guides.hp.hot.vb.vb_wp.signs_tp_ff"/>
+		
+		
+		<POI MapID="1052" xpos="-520.288" ypos="515.34" zpos="-284.574" type="cz_guides.hp.hot.vb.num.8"/>
+		<POI MapID="1052" xpos="-520.288" ypos="515.34" zpos="-284.574" type="cz_guides.hp.hot.vb.label.security_console"/>
+		<POI MapID="1052" xpos="-461.981" ypos="566.373" zpos="-315.358" type="cz_guides.hp.hot.vb.num.8"/>
+		<POI MapID="1052" xpos="-461.981" ypos="566.373" zpos="-315.358" type="cz_guides.hp.hot.vb.label.security_console"/>
+		<Trail type="cz_guides.hp.hot.vb" trailData="Data\czokalapiksguides\vb9.trl" />
+		
+		<POI MapID="1052" xpos="-672.188" ypos="562.649" zpos="-124.137" type="cz_guides.hp.hot.vb.num.9"/>
+		<POI MapID="1052" xpos="-672.188" ypos="562.649" zpos="-124.137" type="cz_guides.hp.hot.vb.label.ancient_tree"/>
+		<Trail type="cz_guides.hp.hot.vb" trailData="Data\czokalapiksguides\vb7.trl" />
+		<POI MapID="1052" xpos="-398.257" ypos="147.989" zpos="-116.798" type="cz_guides.hp.hot.vb.vb_wp.signs_tp_ff"/>
+		
+		
+		<POI MapID="1052" xpos="-528.791" ypos="512.872" zpos="-278.836" type="cz_guides.hp.hot.vb.num.10"/>
+		<POI MapID="1052" xpos="-528.791" ypos="512.872" zpos="-278.836" type="cz_guides.hp.hot.vb.label.treacherous_path"/>
+		<Trail type="cz_guides.hp.hot.vb" trailData="Data\czokalapiksguides\vb10wp.trl" texture="Data\czokalapiksguides\cz_trail_wp.png"/>
+		<POI MapID="1052" xpos="-763.497" ypos="377.297" zpos="-397.712" type="cz_guides.hp.hot.vb.num.10"/>
+		<POI MapID="1052" xpos="-763.497" ypos="377.297" zpos="-397.712" type="cz_guides.hp.hot.vb.label.coztic_itzel_belongings"/>
+		<Trail type="cz_guides.hp.hot.vb" trailData="Data\czokalapiksguides\vb10.trl" />
+		
+		<POI MapID="1052" xpos="-707.946" ypos="361.757" zpos="-360.254" type="cz_guides.hp.hot.vb.vb_wp.signs_tp_ji"/>
+		
+		<POI MapID="1052" xpos="372.188" ypos="434.756" zpos="-383.298" type="cz_guides.hp.hot.vb" iconFile="Data\czokalapiksguides\cz_chopper_note.png" iconSize="1.7"/>
+		<POI MapID="1052" xpos="661.619" ypos="373.088" zpos="373.471" type="cz_guides.hp.hot.vb.num.11"/>
+		<POI MapID="1052" xpos="661.619" ypos="373.088" zpos="373.471" type="cz_guides.hp.hot.vb.label.pile_of_guano"/>
+		<POI MapID="1052" xpos="416.474" ypos="450.907" zpos="409.865" type="cz_guides.hp.hot.vb.num.11"/>
+		<POI MapID="1052" xpos="416.474" ypos="450.907" zpos="409.865" type="cz_guides.hp.hot.vb.label.pile_of_guano"/>
+		
+		<POI MapID="1052" xpos="168.568" ypos="583.36" zpos="201.918" type="cz_guides.hp.hot.ab.num.signs_portal"/>
+		<POI MapID="1052" xpos="132.19" ypos="558.946" zpos="316.058" type="cz_guides.hp.hot.ab.num.signs_portal"/>
+		<POI MapID="1052" xpos="359.564" ypos="453.829" zpos="268.158" type="cz_guides.hp.hot.ab.num.signs_portal"/>
+		<POI MapID="1052" xpos="252.89" ypos="465.863" zpos="277.159" type="cz_guides.hp.hot.ab.num.signs_portal"/>
+		
+		<Trail type="cz_guides.hp.hot.vb" trailData="Data\czokalapiksguides\vb11.trl" />
+		<POI MapID="1052" xpos="186.789" ypos="582.741" zpos="211.394" type="cz_guides.hp.hot.vb" iconFile="Data\czokalapiksguides\cz_thank_you.png" iconSize="2.5"/>
+		<POI MapID="1052" xpos="186.789" ypos="582.741" zpos="211.394" type="cz_guides.hp.hot.vb" iconFile="Data\czokalapiksguides\cz_continue_to_ab.png" iconSize="2.5"/>
+		
+		
+		
+		
+		<POI MapID="1043" xpos="-378.79" ypos="475.082" zpos="666.629" type="cz_guides.hp.hot.ab.num.1"/>
+		<POI MapID="1043" xpos="-378.79" ypos="475.082" zpos="666.629" type="cz_guides.hp.hot.ab.label.young_mushrooms"/>
+		<Trail type="cz_guides.hp.hot.ab" trailData="Data\czokalapiksguides\ab1.trl" />
+		
+		<POI MapID="1043" xpos="-405.981" ypos="330.669" zpos="561.2" type="cz_guides.hp.hot.ab.num.2"/>
+		<POI MapID="1043" xpos="-405.981" ypos="330.669" zpos="561.2" type="cz_guides.hp.hot.ab.label.toxin_cured_hog"/>
+		<Trail type="cz_guides.hp.hot.ab" trailData="Data\czokalapiksguides\ab2.trl" />
+		
+		
+		
+		
+		
+		<POI MapID="1043" xpos="-424.912" ypos="303.694" zpos="426.101" type="cz_guides.hp.hot.ab.num.3"/>
+		<POI MapID="1043" xpos="-424.912" ypos="303.694" zpos="426.101" type="cz_guides.hp.hot.ab.label.westwatch"/>
+		<Trail type="cz_guides.hp.hot.ab" trailData="Data\czokalapiksguides\ab3wp1.trl" texture="Data\czokalapiksguides\cz_trail_wp.png"/>
+		<POI MapID="1043" xpos="-364.749" ypos="270.68" zpos="241.595" type="cz_guides.hp.hot.ab.num.3"/>
+		<POI MapID="1043" xpos="-364.749" ypos="270.68" zpos="241.595" type="cz_guides.hp.hot.ab.label.northwatch"/>
+		<Trail type="cz_guides.hp.hot.ab" trailData="Data\czokalapiksguides\ab3wp2.trl" texture="Data\czokalapiksguides\cz_trail_wp.png"/>
+		
+		<POI MapID="1043" xpos="62.4469" ypos="331.681" zpos="478.153" type="cz_guides.hp.hot.ab.num.3"/>
+		<POI MapID="1043" xpos="62.4469" ypos="331.681" zpos="478.153" type="cz_guides.hp.hot.ab.label.burnisher_quarry"/>
+		<Trail type="cz_guides.hp.hot.ab" trailData="Data\czokalapiksguides\ab3.1.trl" />
+		<POI MapID="1043" xpos="313.379" ypos="382.246" zpos="661.381" type="cz_guides.hp.hot.ab.num.3"/>
+		<POI MapID="1043" xpos="313.379" ypos="382.246" zpos="661.381" type="cz_guides.hp.hot.ab.label.burnisher_quarry_springer"/>
+		<POI MapID="1043" xpos="316.823" ypos="382.102" zpos="659.919" type="cz_guides.hp.hot.ab.num.3"/>
+		<POI MapID="1043" xpos="316.823" ypos="382.102" zpos="659.919" type="cz_guides.hp.hot.ab.label.burnisher_quarry"/>
+		
+		<POI MapID="1043" xpos="312.531" ypos="382.541" zpos="665.837" type="cz_guides.hp.hot.ab.num.signs_portal"/>
+		<POI MapID="1043" xpos="294.563" ypos="441.565" zpos="741.432" type="cz_guides.hp.hot.ab.num.signs_portal"/>
+		<Trail type="cz_guides.hp.hot.ab" trailData="Data\czokalapiksguides\ab3.2.trl" />
+		<POI MapID="1043" xpos="342.52" ypos="418.888" zpos="773.351" type="cz_guides.hp.hot.ab.ab_wp.signs_tp_abn"/>
+		
+		<POI MapID="1043" xpos="63.2241" ypos="332.677" zpos="472.907" type="cz_guides.hp.hot.ab.num.4"/>
+		<POI MapID="1043" xpos="63.2241" ypos="332.677" zpos="472.907" type="cz_guides.hp.hot.ab.label.suspicious_orichalcum"/>
+		<Trail type="cz_guides.hp.hot.ab" trailData="Data\czokalapiksguides\ab3.trl" />
+		
+		
+		<POI MapID="1043" xpos="141.381" ypos="307.48" zpos="388.343" type="cz_guides.hp.hot.ab.num.5"/>
+		<POI MapID="1043" xpos="141.381" ypos="307.48" zpos="388.343" type="cz_guides.hp.hot.ab.label.eastwatch"/>
+		<Trail type="cz_guides.hp.hot.ab" trailData="Data\czokalapiksguides\ab4wp.trl" texture="Data\czokalapiksguides\cz_trail_wp.png"/>
+		<POI MapID="1043" xpos="456.731" ypos="292.068" zpos="70.6522" type="cz_guides.hp.hot.ab.num.5"/>
+		<POI MapID="1043" xpos="456.731" ypos="292.068" zpos="70.6522" type="cz_guides.hp.hot.ab.label.notice_to_trespassers"/>
+		<Trail type="cz_guides.hp.hot.ab" trailData="Data\czokalapiksguides\ab4.trl" />
+		
+		<POI MapID="1043" xpos="551.647" ypos="345.94" zpos="243.016" type="cz_guides.hp.hot.ab.num.6"/>
+		<POI MapID="1043" xpos="551.647" ypos="345.94" zpos="243.016" type="cz_guides.hp.hot.ab.label.mordrem_flower"/>
+		<Trail type="cz_guides.hp.hot.ab" trailData="Data\czokalapiksguides\ab5-6.trl" />
+		
+		
+		
+		
+		<POI MapID="1043" xpos="57.9501" ypos="332.286" zpos="471.242" type="cz_guides.hp.hot.ab.num.7"/>
+		<POI MapID="1043" xpos="57.9501" ypos="332.286" zpos="471.242" type="cz_guides.hp.hot.ab.label.exalted_overlook"/>
+		<Trail type="cz_guides.hp.hot.ab" trailData="Data\czokalapiksguides\ab5.trl" />
+		
+		<POI MapID="1043" xpos="123.6" ypos="199.158" zpos="120.639" type="cz_guides.hp.hot.ab.num.8"/>
+		<POI MapID="1043" xpos="123.6" ypos="199.158" zpos="120.639" type="cz_guides.hp.hot.ab.label.forgotten_city"/>
+		<Trail type="cz_guides.hp.hot.ab" trailData="Data\czokalapiksguides\ab6wp.trl" texture="Data\czokalapiksguides\cz_trail_wp.png"/>
+		<POI MapID="1043" xpos="6.75648" ypos="71.815" zpos="-25.7269" type="cz_guides.hp.hot.ab.num.8"/>
+		<POI MapID="1043" xpos="6.75648" ypos="71.815" zpos="-25.7269" type="cz_guides.hp.hot.ab.label.tarnished_sage"/>
+		<Trail type="cz_guides.hp.hot.ab" trailData="Data\czokalapiksguides\ab6.trl" />
+		<POI MapID="1043" xpos="-12.0218" ypos="21.5266" zpos="120.822" type="cz_guides.hp.hot.ab.ab_wp.signs_tp_abw"/>
+		
+		
+		<POI MapID="1043" xpos="575.033" ypos="314.714" zpos="-380.697" type="cz_guides.hp.hot.ab.ab_wp.signs_tp_abn"/>
+		
+		<POI MapID="1043" xpos="-365.773" ypos="270.299" zpos="237.489" type="cz_guides.hp.hot.ab.num.9"/>
+		<POI MapID="1043" xpos="-365.773" ypos="270.299" zpos="237.489" type="cz_guides.hp.hot.ab.label.ancient_golem_part"/>
+		<Trail type="cz_guides.hp.hot.ab" trailData="Data\czokalapiksguides\ab9.trl" />
+		<POI MapID="1043" xpos="-464.866" ypos="286.448" zpos="-53.3281" type="cz_guides.hp.hot.ab.num.signs_portal"/>
+		<POI MapID="1043" xpos="-490.213" ypos="313.738" zpos="-55.269" type="cz_guides.hp.hot.ab.num.signs_portal"/>
+		<POI MapID="1043" xpos="-544.615" ypos="210.919" zpos="-308.339" type="cz_guides.hp.hot.ab.num.10"/>
+		<POI MapID="1043" xpos="-544.615" ypos="210.919" zpos="-308.339" type="cz_guides.hp.hot.ab.label.southwatch"/>
+		<Trail type="cz_guides.hp.hot.ab" trailData="Data\czokalapiksguides\ab10wp.trl" texture="Data\czokalapiksguides\cz_trail_wp.png"/>
+		<POI MapID="1043" xpos="-45.1119" ypos="268.149" zpos="-406.314" type="cz_guides.hp.hot.ab.num.10"/>
+		<POI MapID="1043" xpos="-45.1119" ypos="268.149" zpos="-406.314" type="cz_guides.hp.hot.ab.label.chak_hollow"/>
+		<Trail type="cz_guides.hp.hot.ab" trailData="Data\czokalapiksguides\ab10wp2.trl" texture="Data\czokalapiksguides\cz_trail_wp.png"/>
+		<POI MapID="1043" xpos="340.411" ypos="235.178" zpos="-677.331" type="cz_guides.hp.hot.ab.num.10"/>
+		<POI MapID="1043" xpos="340.411" ypos="235.178" zpos="-677.331" type="cz_guides.hp.hot.ab.label.egg_clutch"/>
+		<Trail type="cz_guides.hp.hot.ab" trailData="Data\czokalapiksguides\ab10.trl" />
+		
+		<POI MapID="1043" xpos="273.649" ypos="229.952" zpos="-825.644" type="cz_guides.hp.hot.ab.ab_wp.signs_tp_abs"/>
+		
+		
+		<POI MapID="1043" xpos="-45.4109" ypos="269.198" zpos="-412.526" type="cz_guides.hp.hot.ab.num.11"/>
+		<POI MapID="1043" xpos="-45.4109" ypos="269.198" zpos="-412.526" type="cz_guides.hp.hot.ab.label.balthazars_statue"/>
+		<Trail type="cz_guides.hp.hot.ab" trailData="Data\czokalapiksguides\ab11.trl" />
+		<POI MapID="1043" xpos="-179.256" ypos="268.114" zpos="-674.752" type="cz_guides.hp.hot.ab.num.signs_portal"/>
+		<POI MapID="1043" xpos="-198.779" ypos="264.887" zpos="-682.231" type="cz_guides.hp.hot.ab.num.signs_portal"/>
+		<POI MapID="1043" xpos="-288.641" ypos="275.305" zpos="-750.324" type="cz_guides.hp.hot.ab.num.signs_portal"/>
+		<POI MapID="1043" xpos="-300.299" ypos="278.436" zpos="-756.942" type="cz_guides.hp.hot.ab.num.signs_portal"/>
+		
+		<POI MapID="1043" xpos="-313.782" ypos="278.147" zpos="-766.767" type="cz_guides.hp.hot.ab" iconFile="Data\czokalapiksguides\cz_thank_you.png" iconSize="2.5"/>
+		<POI MapID="1043" xpos="-313.782" ypos="278.147" zpos="-766.767" type="cz_guides.hp.hot.ab" iconFile="Data\czokalapiksguides\cz_continue_to_td.png" iconSize="2.5"/>
+		
+		
+		
+		<POI MapID="1045" xpos="-706.694" ypos="241.742" zpos="204.968" type="cz_guides.hp.hot.td.num.1"/>
+		<POI MapID="1045" xpos="-706.694" ypos="241.742" zpos="204.968" type="cz_guides.hp.hot.td.label.glided_river"/>
+		<Trail type="cz_guides.hp.hot.td" trailData="Data\czokalapiksguides\td1.trl" />
+		<POI MapID="1045" xpos="-538.94" ypos="206.814" zpos="-71.9521" type="cz_guides.hp.hot.td.num.signs_portal"/>
+		<Trail type="cz_guides.hp.hot.td" trailData="Data\czokalapiksguides\td1mount.trl" />
+		<POI MapID="1045" xpos="-532.656" ypos="305.365" zpos="-146.001" type="cz_guides.hp.hot.td.num.signs_portal"/>
+		
+		<POI MapID="1045" xpos="-537.032" ypos="301.853" zpos="-137.631" type="cz_guides.hp.hot.td.num.2"/>
+		<POI MapID="1045" xpos="-537.032" ypos="301.853" zpos="-137.631" type="cz_guides.hp.hot.td.label.troll_runestone"/>
+		<Trail type="cz_guides.hp.hot.td" trailData="Data\czokalapiksguides\td2.trl" />
+		<POI MapID="1045" xpos="-709.503" ypos="78.1583" zpos="-47.7141" type="cz_guides.hp.hot.td.td_wp.signs_tp_oowc"/>
+		
+		<POI MapID="1045" xpos="-704.95" ypos="241.799" zpos="204.255" type="cz_guides.hp.hot.td.num.3"/>
+		<POI MapID="1045" xpos="-704.95" ypos="241.799" zpos="204.255" type="cz_guides.hp.hot.td.label.teku_nunoch"/>
+		<Trail type="cz_guides.hp.hot.td" trailData="Data\czokalapiksguides\td3wp.trl" texture="Data\czokalapiksguides\cz_trail_wp.png"/>
+		<POI MapID="1045" xpos="-462.137" ypos="182.087" zpos="197.779" type="cz_guides.hp.hot.td.num.3"/>
+		<POI MapID="1045" xpos="-462.137" ypos="182.087" zpos="197.779" type="cz_guides.hp.hot.td.label.teku_nunoch"/>
+		<POI MapID="1045" xpos="28.7802" ypos="125.646" zpos="382.46" type="cz_guides.hp.hot.td.num.3"/>
+		<POI MapID="1045" xpos="28.7802" ypos="125.646" zpos="382.46" type="cz_guides.hp.hot.td.label.inquisitors_campsite"/>
+		<POI MapID="1045" xpos="39.8089" ypos="166.126" zpos="372.255" type="cz_guides.hp.hot.td.num.3"/>
+		<POI MapID="1045" xpos="39.8089" ypos="166.126" zpos="372.255" type="cz_guides.hp.hot.td.label.inquisitors_campsite"/>
+		<Trail type="cz_guides.hp.hot.td" trailData="Data\czokalapiksguides\td3.trl" />
+		
+		<POI MapID="1045" xpos="-223.813" ypos="233.8" zpos="357.735" type="cz_guides.hp.hot.td.num.4"/>
+		<POI MapID="1045" xpos="-223.813" ypos="233.8" zpos="357.735" type="cz_guides.hp.hot.td.label.mushroom_spore_cloud"/>
+		<Trail type="cz_guides.hp.hot.td" trailData="Data\czokalapiksguides\td4.trl" />
+		<POI MapID="1045" xpos="218.14" ypos="203.654" zpos="262.167" type="cz_guides.hp.hot.td.num.signs_portal"/>
+		<POI MapID="1045" xpos="249.012" ypos="202.266" zpos="226.067" type="cz_guides.hp.hot.td.num.signs_portal"/>
+		<POI MapID="1045" xpos="191.943" ypos="185.662" zpos="131.657" type="cz_guides.hp.hot.td.num.5"/>
+		<POI MapID="1045" xpos="191.943" ypos="185.662" zpos="131.657" type="cz_guides.hp.hot.td.label.rata_novus"/>
+		<Trail type="cz_guides.hp.hot.td" trailData="Data\czokalapiksguides\td5wp.trl" texture="Data\czokalapiksguides\cz_trail_wp.png"/>
+		
+		<POI MapID="1045" xpos="445.013" ypos="0.750911" zpos="139.761" type="cz_guides.hp.hot.td.num.5"/>
+		<POI MapID="1045" xpos="445.013" ypos="0.750911" zpos="139.761" type="cz_guides.hp.hot.td.label.ancient_power_core"/>
+		<Trail type="cz_guides.hp.hot.td" trailData="Data\czokalapiksguides\td5.trl" />
+		<POI MapID="1045" xpos="533.136" ypos="31.1612" zpos="434.047" type="cz_guides.hp.hot.td.num.signs_portal"/>
+		<POI MapID="1045" xpos="493.949" ypos="58.3341" zpos="445.767" type="cz_guides.hp.hot.td.num.signs_portal"/>
+		<POI MapID="1045" xpos="415.253" ypos="20.065" zpos="450.489" type="cz_guides.hp.hot.td.td_wp.signs_tp_rn"/>
+		
+		<POI MapID="1045" xpos="439.086" ypos="0.960158" zpos="146.341" type="cz_guides.hp.hot.td.num.6"/>
+		<POI MapID="1045" xpos="439.086" ypos="0.960158" zpos="146.341" type="cz_guides.hp.hot.td.label.newborn_mushrooms"/>
+		<Trail type="cz_guides.hp.hot.td" trailData="Data\czokalapiksguides\td6.trl" />
+		<POI MapID="1045" xpos="305.556" ypos="14.3771" zpos="-79.8625" type="cz_guides.hp.hot.td.td_wp.signs_tp_oowc"/>
+		
+		<POI MapID="1045" xpos="-704.106" ypos="241.819" zpos="205.016" type="cz_guides.hp.hot.td.num.7"/>
+		<POI MapID="1045" xpos="-704.106" ypos="241.819" zpos="205.016" type="cz_guides.hp.hot.td.label.ogre_camp"/>
+		<POI MapID="1045" xpos="-462.706" ypos="181.988" zpos="189.597" type="cz_guides.hp.hot.td.num.7"/>
+		<POI MapID="1045" xpos="-462.706" ypos="181.988" zpos="189.597" type="cz_guides.hp.hot.td.label.ogre_camp"/>
+		<Trail type="cz_guides.hp.hot.td" trailData="Data\czokalapiksguides\td7wp.trl" texture="Data\czokalapiksguides\cz_trail_wp.png"/>
+		<POI MapID="1045" xpos="-189.981" ypos="225.114" zpos="-184.196" type="cz_guides.hp.hot.td.num.7"/>
+		<POI MapID="1045" xpos="-189.981" ypos="225.114" zpos="-184.196" type="cz_guides.hp.hot.td.label.guano_spider_eggs"/>
+		<POI MapID="1045" xpos="-511.1" ypos="280.827" zpos="-291.177" type="cz_guides.hp.hot.td.num.signs_portal"/>
+		<POI MapID="1045" xpos="-471.907" ypos="192.127" zpos="-237.275" type="cz_guides.hp.hot.td.num.signs_portal"/>
+		<Trail type="cz_guides.hp.hot.td" trailData="Data\czokalapiksguides\td7.trl" />
+		
+		<POI MapID="1045" xpos="-567.116" ypos="284.783" zpos="-313.917" type="cz_guides.hp.hot.td.num.8"/>
+		<POI MapID="1045" xpos="-567.116" ypos="284.783" zpos="-313.917" type="cz_guides.hp.hot.td.label.egg_clutch"/>
+		<Trail type="cz_guides.hp.hot.td" trailData="Data\czokalapiksguides\td8.trl" />
+		
+		<POI MapID="1045" xpos="-484.124" ypos="7.34027" zpos="-509.504" type="cz_guides.hp.hot.td.num.9"/>
+		<POI MapID="1045" xpos="-484.124" ypos="7.34027" zpos="-509.504" type="cz_guides.hp.hot.td.label.nightthistle_bloom"/>
+		<Trail type="cz_guides.hp.hot.td" trailData="Data\czokalapiksguides\td9.trl"/>
+		<POI MapID="1045" xpos="-801.795" ypos="34.4903" zpos="-409.043" type="cz_guides.hp.hot.td.num.signs_portal"/>
+		<POI MapID="1045" xpos="-826.51" ypos="60.895" zpos="-436.182" type="cz_guides.hp.hot.td.num.signs_portal"/>
+		
+		<POI MapID="1045" xpos="-827.055" ypos="60.551" zpos="-446.162" type="cz_guides.hp.hot.td.num.10"/>
+		<POI MapID="1045" xpos="-827.055" ypos="60.551" zpos="-446.162" type="cz_guides.hp.hot.td.label.dragons_passage"/>
+		<Trail type="cz_guides.hp.hot.td" trailData="Data\czokalapiksguides\td9wp.trl" texture="Data\czokalapiksguides\cz_trail_wp.png"/>
+		
+		<POI MapID="1045" xpos="-812.338" ypos="5.09688" zpos="-551.655" type="cz_guides.hp.hot.td.num.10"/>
+		<POI MapID="1045" xpos="-812.338" ypos="5.09688" zpos="-551.655" type="cz_guides.hp.hot.td.label.jellyfish_grotto"/>
+		<Trail type="cz_guides.hp.hot.td" trailData="Data\czokalapiksguides\td10wp.trl" texture="Data\czokalapiksguides\cz_trail_wp.png"/>
+		<Trail type="cz_guides.hp.hot.td" trailData="Data\czokalapiksguides\td10.trl" />
+		<Trail type="cz_guides.hp.hot.td" trailData="Data\czokalapiksguides\td10mount.trl" />
+		<POI MapID="1045" xpos="-876.719" ypos="27.4421" zpos="-332.576" type="cz_guides.hp.hot.td.num.signs_portal"/>
+		<POI MapID="1045" xpos="-865.616" ypos="38.0658" zpos="-317.704" type="cz_guides.hp.hot.td.num.signs_portal"/>
+		
+		<POI MapID="1045" xpos="-612.588" ypos="-221.267" zpos="-259.816" type="cz_guides.hp.hot.td.num.11"/>
+		<POI MapID="1045" xpos="-612.588" ypos="-221.267" zpos="-259.816" type="cz_guides.hp.hot.td.label.chak_hatchery"/>
+		<Trail type="cz_guides.hp.hot.td" trailData="Data\czokalapiksguides\td11.trl" />
+		<POI MapID="1045" xpos="-576.881" ypos="9.69768" zpos="391.406" type="cz_guides.hp.hot.td" iconFile="Data\czokalapiksguides\cz_thank_you.png" iconSize="2.5"/>
+		
+	</POIs>
+</OverlayData>
