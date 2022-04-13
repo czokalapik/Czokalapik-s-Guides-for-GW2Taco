@@ -1,9 +1,9 @@
 # Czokalapik's marker packs for GW2 Taco  
 ![](https://github.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/tree/main/Data/CzokalapiksGuides/git-instructions/cz_hp_run_screen.png)
-Like many of you, I'm using GW2 Taco, it's amazing overlay addon for GW2, markers were intended to be created by players just like me and you, so here is my input. This is collection of marker packs made by me, for my own use, but since this work helped me greatly in GW2 I want to share it so hopefully it will help you too.
+Like many of you, I'm using BlishHUD, it's amazing overlay addon for GW2, markers were intended to be created by players just like me and you, so here is my input. This is collection of marker packs made by me, for my own use, but since this work helped me greatly in GW2 I want to share it so hopefully it will help you too.
 
 #### Quick start  
-1. I recommend using [BlishHUD](https://blishhud.com/) as you can download this 
+1. I recommend using [BlishHUD](https://blishhud.com/) as you can download this pack directly from within it
 2. If you are using Taco, just [download](https://github.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/releases) latest version of these markers
 3. Extract downloaded files to GW2 Taco POIs folder (no changes to other packs will be made).
 
