@@ -1,5 +1,5 @@
 # Czokalapik's marker packs for GW2 Taco  
-![](https://github.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/tree/main/Data/CzokalapiksGuides/git-instructions/cz_hp_run_screen.png)
+![](https://raw.githubusercontent.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/main/Data/CzokalapiksGuides/git-instructions/cz_hp_run_screen.png)
 Like many of you, I'm using BlishHUD, it's amazing overlay addon for GW2, markers were intended to be created by players just like me and you, so here is my input. This is collection of marker packs made by me, for my own use, but since this work helped me greatly in GW2 I want to share it so hopefully it will help you too.
 
 #### Quick start  
@@ -21,26 +21,26 @@ Optional, but not required: **Ley Line Gliding** and **Lean Techniques**.
 
 ### Routes shown on maps:
 * **HoT**
-	* [Verdant Brink](https://github.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/tree/main/Data/CzokalapiksGuides/git-instructions/VB.jpg)
-	* [Auric Basin](https://github.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/tree/main/Data/CzokalapiksGuides/git-instructions/AB.jpg)
-	* [Tangled Depths](https://github.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/tree/main/Data/CzokalapiksGuides/git-instructions/TD.jpg)
+	* [Verdant Brink](https://raw.githubusercontent.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/main/Data/CzokalapiksGuides/git-instructions/VB.jpg)
+	* [Auric Basin](https://raw.githubusercontent.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/main/Data/CzokalapiksGuides/git-instructions/AB.jpg)
+	* [Tangled Depths](https://raw.githubusercontent.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/main/Data/CzokalapiksGuides/git-instructions/TD.jpg)
 
 ### Marks explanation
 Mark  | Description 
 -: | :-
-![](https://github.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/tree/main/Data/CzokalapiksGuides/git-instructions/cz_git_portal.png)  | Every spot where you have to use Bouncing Mushrooms, Ley Line Gliding, Updraft Use, or Springer is marked with spots where you should use **Portal** to help other members of your group.
-![](https://github.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/tree/main/Data/CzokalapiksGuides/git-instructions/cz_git_num_label.png) | Every HP trail starts with corresponding number (at Waypoint or after previous HP), same icon appears on every fork in the road. Labels under the number will tell where you are going, you will see Hero Challenge name or Waypoint name here, "ALT ROUTE" on the label means this is alternative route to this Hero Challenge. You'll also see several icons on the label: 
-| ![](https://github.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/tree/main/Data/CzokalapiksGuides/git-instructions/cz_git_labels_hp.png) - This route leads to soloable Hero Point, same icon with "+" means HP that will require 2 or more players
-| ![](https://github.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/tree/main/Data/CzokalapiksGuides/git-instructions/cz_git_labels_wp.png) - This trail leads to Waypoint
-| ![](https://github.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/tree/main/Data/CzokalapiksGuides/git-instructions/cz_git_labels_exaltedmarkings.png) - You will need Exalted Markings Mastery on the way (or something to skip them), needed only for Balthazar HP, Jellyfish and Chak Hatchery HPs
-| ![](https://github.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/tree/main/Data/CzokalapiksGuides/git-instructions/cz_git_labels_itzelpoison.png) - Itzel Poison mastery is reqiured here (only Chak Hatchery HP)
-| ![](https://github.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/tree/main/Data/CzokalapiksGuides/git-instructions/cz_git_labels_leyline.png) - Ley-Line mastery is required to get to this HP (**Springer** or even  **Advanced Gliding** be used instead, only Burnisher's Quarry vanilla path)
-| ![](https://github.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/tree/main/Data/CzokalapiksGuides/git-instructions/cz_git_labels_mushroom.png) - Bouncing Mushroom mastery is required here, usually **Springer** can be used instead
-| ![](https://github.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/tree/main/Data/CzokalapiksGuides/git-instructions/cz_git_labels_updraft.png) - Updraft mastery is required to follow this route, usually **Springer** can be used instead
-| ![](https://github.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/tree/main/Data/CzokalapiksGuides/git-instructions/cz_git_labels_lean.png) - Lean Techniques mastery required (**Springer** can be used instead)
-| ![](https://github.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/tree/main/Data/CzokalapiksGuides/git-instructions/cz_git_labels_springer.png) - Springer is required to follow this route
-![](https://github.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/tree/main/Data/CzokalapiksGuides/git-instructions/cz_git_trail.png) | **Yellow trail** leads directly to Hero Challenge. **Blue trail** leads to next Waypont, you will see yellow continuation of the trial after getting to WP.
-![](https://github.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/tree/main/Data/CzokalapiksGuides/git-instructions/cz_git_signs_tp_to.png) | This mark will tell you where to teleport after completing Hero Challenge (if the trail is not leadeing you to next HP). You will only be pointed to starting Waypoint or the ones this route led you already.
+![](https://raw.githubusercontent.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/main/Data/CzokalapiksGuides/git-instructions/cz_git_portal.png)  | Every spot where you have to use Bouncing Mushrooms, Ley Line Gliding, Updraft Use, or Springer is marked with spots where you should use **Portal** to help other members of your group.
+![](https://raw.githubusercontent.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/main/Data/CzokalapiksGuides/git-instructions/cz_git_num_label.png) | Every HP trail starts with corresponding number (at Waypoint or after previous HP), same icon appears on every fork in the road. Labels under the number will tell where you are going, you will see Hero Challenge name or Waypoint name here, "ALT ROUTE" on the label means this is alternative route to this Hero Challenge. You'll also see several icons on the label: 
+| ![](https://raw.githubusercontent.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/main/Data/CzokalapiksGuides/git-instructions/cz_git_labels_hp.png) - This route leads to soloable Hero Point, same icon with "+" means HP that will require 2 or more players
+| ![](https://raw.githubusercontent.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/main/Data/CzokalapiksGuides/git-instructions/cz_git_labels_wp.png) - This trail leads to Waypoint
+| ![](https://raw.githubusercontent.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/main/Data/CzokalapiksGuides/git-instructions/cz_git_labels_exaltedmarkings.png) - You will need Exalted Markings Mastery on the way (or something to skip them), needed only for Balthazar HP, Jellyfish and Chak Hatchery HPs
+| ![](https://raw.githubusercontent.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/main/Data/CzokalapiksGuides/git-instructions/cz_git_labels_itzelpoison.png) - Itzel Poison mastery is reqiured here (only Chak Hatchery HP)
+| ![](https://raw.githubusercontent.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/main/Data/CzokalapiksGuides/git-instructions/cz_git_labels_leyline.png) - Ley-Line mastery is required to get to this HP (**Springer** or even  **Advanced Gliding** be used instead, only Burnisher's Quarry vanilla path)
+| ![](https://raw.githubusercontent.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/main/Data/CzokalapiksGuides/git-instructions/cz_git_labels_mushroom.png) - Bouncing Mushroom mastery is required here, usually **Springer** can be used instead
+| ![](https://raw.githubusercontent.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/main/Data/CzokalapiksGuides/git-instructions/cz_git_labels_updraft.png) - Updraft mastery is required to follow this route, usually **Springer** can be used instead
+| ![](https://raw.githubusercontent.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/main/Data/CzokalapiksGuides/git-instructions/cz_git_labels_lean.png) - Lean Techniques mastery required (**Springer** can be used instead)
+| ![](https://raw.githubusercontent.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/main/Data/CzokalapiksGuides/git-instructions/cz_git_labels_springer.png) - Springer is required to follow this route
+![](https://raw.githubusercontent.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/main/Data/CzokalapiksGuides/git-instructions/cz_git_trail.png) | **Yellow trail** leads directly to Hero Challenge. **Blue trail** leads to next Waypont, you will see yellow continuation of the trial after getting to WP.
+![](https://raw.githubusercontent.com/czokalapik/Czokalapik-s-Guides-for-GW2Taco/main/Data/CzokalapiksGuides/git-instructions/cz_git_signs_tp_to.png) | This mark will tell you where to teleport after completing Hero Challenge (if the trail is not leadeing you to next HP). You will only be pointed to starting Waypoint or the ones this route led you already.
 
 ### Changelog
 * 13.04.2022 - Changed from Bitbucket to GitHub 
