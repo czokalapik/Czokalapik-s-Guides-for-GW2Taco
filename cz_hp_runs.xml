@@ -1,5 +1,5 @@
 <OverlayData>
-<MarkerCategory name="cz_guides" DisplayName="Czokalapik's Guides" iconSize="0.7" heightOffset="2.5" fadeNear="3000" fadeFar="3100" iconFile="Data\czokalapiksguides\cz_num_missing.png" animSpeed="0.1" texture="Data\czokalapiksguides\cz_trail.png">
+<MarkerCategory name="cz_guides" DisplayName="Czokalapik's HoT Train" iconSize="0.7" heightOffset="2.5" fadeNear="3000" fadeFar="3100" iconFile="Data\czokalapiksguides\cz_num_missing.png" animSpeed="0.1" texture="Data\czokalapiksguides\cz_trail.png">
 	<MarkerCategory name="hp" DisplayName="Hero Points Run">
 		  <MarkerCategory name="hot" DisplayName="HoT paths">
 		  	<MarkerCategory MapID="1052" name="vb" DisplayName="Verdant Brink">
